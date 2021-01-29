@@ -1,0 +1,2 @@
+# INSTALL INSTRUCTIONS
+- npm install
